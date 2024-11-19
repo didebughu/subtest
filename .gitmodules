@@ -1,0 +1,3 @@
+[submodule "suddep"]
+	path = suddep
+	url = git@github.com:didebughu/subdep.git
